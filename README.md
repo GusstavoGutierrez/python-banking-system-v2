@@ -1,4 +1,4 @@
-# Sistema Bancário V2 (Desafio DIO)
+# Sistema Bancário - Modularizado e com funções
 
 Este projeto é a segunda versão e uma evolução do desafio de projeto "Sistema Bancário" da plataforma **Digital Innovation One (DIO)**. O foco desta versão foi aprimorar o código através da modularização com funções, introduzindo também a gestão de usuários e contas correntes para tornar o sistema mais robusto e escalável.
 
